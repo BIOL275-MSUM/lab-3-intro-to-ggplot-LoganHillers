@@ -1,7 +1,7 @@
 Lab 3: Introduction to ggplot
 ================
 Logan Hillers
-2021-02-02
+2021-02-03
 
 Welcome to my Lab 3 repository for Quantitative Biology BIOL 275 at
 MSUM.

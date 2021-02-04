@@ -60,18 +60,15 @@ I read the data using the code provided by the instructor. The dataset is from t
 
 There are 10,721 bird species in the new bird dataset, which I found by loading the data in my console by running the code below.
 
-```{r}
 count(birds)
-```
 
 
 > H. How many orders are there? You can get this right by counting on the graph, but you will only get full points if you use some code to figure it out.
 
 I counted how many orders there were by running the code below. In total, there were 41 orders.
 
-```{r}
+
 count(birds, order)
-```
 
 
 > F. Insert an R code chunk and create a graph depicting the distribution of orders in the birds dataset. Sort the orders with the most frequent on the left. It should have legible text and appropriate axis labels.
